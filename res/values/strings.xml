@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">热量表信息系统</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="welcome">热量表信息查询统计系统</string>
+    <string name="title_activity_search">查询信息</string>
+    <string name="title_activity_manage">ManageActivity</string>
+    <string name="title_activity_select_company">SelectCompanyActivity</string>
+
+</resources>
